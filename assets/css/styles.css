@@ -619,10 +619,15 @@ a {
     width: 28px;
     height: 28px;
     border-radius: 5px;
+    background: #f9f9f9;
+}
+
+.footer .social-link + .social-link {
+    margin-left: 17px;
 }
 
 .footer .social-link:hover {
-    background-color: #e3e8edfb;
+    background-color: #ebebeb;
 }
 
 .footer .row-bottom {
